@@ -23,7 +23,7 @@ if(activity <0)
 }
 else
 {
-	printf("Congrats!! your sleeping barber system call is working");
+	printf("Congrats!! your sleeping barber system call is working\n");
 }
 
 }
