@@ -5,7 +5,7 @@
 #include<string.h>
 #include<errno.h>
 
-#define __NR_sleepingbarber 449
+#define __NR_sleepingbarber 440
 
 long sleepingbarber_syscall(void)
 {
