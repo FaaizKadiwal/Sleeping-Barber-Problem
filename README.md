@@ -1,2 +1,5 @@
 # Sleeping-Barber-Problem
-21K-3830 University project together with team members 21K-3923 and 21K-3909.
+
+University Project for course Operating Systems.
+
+Note: Check out the report for related details and workings.
