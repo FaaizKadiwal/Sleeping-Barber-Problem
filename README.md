@@ -97,6 +97,8 @@ sudo dmesg
 
 ## 🖨 Output Example
 
+## 🖨 Output Example
+
 Number of Chairs are 3 and Number of customers are 5
 Sleeping Barber Problem Implementation Using Semaphores:
 Customer 1 left to get a haircut.
@@ -107,6 +109,14 @@ The barber is sleeping
 The barber is busy servicing the customer
 The barber has finished servicing the customer.
 Customer 1 left the barber shop.
+Customer 2 left to get a haircut.
+Customer 2 reached the barber shop.
+Customer 2 entered the waiting room.
+Customer 2 asked the sleeping barber for a haircut.
+The barber is sleeping
+The barber is busy servicing the customer
+The barber has finished servicing the customer.
+Customer 2 left the barber shop.
 ...
 The Barber's Job Is All Done For The Day!
 
@@ -116,3 +126,11 @@ The Barber's Job Is All Done For The Day!
 
 ### 👥 National University of Computer and Emerging Sciences
 
+---
+
+## 📚 References
+
+- [GeeksforGeeks – Sleeping Barber Problem](https://www.geeksforgeeks.org/sleeping-barber-problem-in-process-synchronization/)
+- [Linux Insides – Synchronization Primitives](https://0xax.gitbooks.io/linux-insides/content/SyncPrim/linux-sync-3.html)
+- [StackOverflow](https://stackoverflow.com/)
+- [YouTube – Kernel Configuration Guide](https://www.youtube.com/watch?v=AP-tBd84vbM)
