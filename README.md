@@ -4,7 +4,7 @@ This project implements the classic **Sleeping Barber Problem** using **semaphor
 
 ---
 
-## 📌 Table of Contents
+📌 Table of Contents
 
 - [Introduction](#introduction)
 - [Project Highlights](#project-highlights)
