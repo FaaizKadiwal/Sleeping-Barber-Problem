@@ -97,10 +97,6 @@ sudo dmesg
 
 ## 🖨 Output Example
 
-## 🖨 Output Example
-
-## 🖨 Output Example
-
 ```text
 Number of Chairs are 3 and Number of customers are 5
 Sleeping Barber Problem Implementation Using Semaphores:
@@ -122,7 +118,7 @@ The barber has finished servicing the customer.
 Customer 2 left the barber shop.
 ...
 The Barber's Job Is All Done For The Day!
-
+```
 ---
 
 ## 🛠 This project was built as part of our Operating Systems course to demonstrate kernel-level synchronization and system call extension.
