@@ -82,17 +82,17 @@ This kernel module simulates a barber shop with limited waiting chairs and multi
 Follow [this guide](https://0xax.gitbooks.io/linux-insides/content/SyncPrim/linux-sync-3.html) or the documentation for steps.
 
 ### 2. Build the Kernel Module
-
+```text
 make
-
+```
 ### 3. Load Module
-
+```text
 sudo insmod sleepingbarber.ko
-
+```
 ### 4. Trigger the system call
-
+```text
 sudo dmesg
-
+```
 ---
 
 ## 🖨 Output Example
