@@ -99,6 +99,9 @@ sudo dmesg
 
 ## 🖨 Output Example
 
+## 🖨 Output Example
+
+```text
 Number of Chairs are 3 and Number of customers are 5
 Sleeping Barber Problem Implementation Using Semaphores:
 Customer 1 left to get a haircut.
